@@ -1,0 +1,14 @@
+{
+  "name": "flowers_and_rocks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "login": "gcloud auth application-default login",
+    "2": "gcloud auth application-default login",
+    "3": "gcloud auth application-default login",
+    "4": "gcloud auth application-default login"
+  },
+  "author": "",
+  "license": "ISC"
+}
