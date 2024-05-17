@@ -1,6 +1,6 @@
 ENDPOINT_ID="1172719310976581632"
 PROJECT_ID="540600113697"
-INPUT_DATA_FILE="input_data_rock.json"
+INPUT_DATA_FILE="input_data_rock_with_house.json"
 
 curl \
 -X POST \
