@@ -1,0 +1,6 @@
+{"content": "gs://mikes-ml-demo-bucket/batch_predict/images/dandelion_1.webp", "mimeType": "image/webp"}
+{"content": "gs://mikes-ml-demo-bucket/batch_predict/images/dandelion_2.jpeg", "mimeType": "image/jpeg"}
+{"content": "gs://mikes-ml-demo-bucket/batch_predict/images/dandelion_3.webp", "mimeType": "image/webp"}
+{"content": "gs://mikes-ml-demo-bucket/batch_predict/images/rock_2.jpg", "mimeType": "image/jpeg"}
+{"content": "gs://mikes-ml-demo-bucket/batch_predict/images/rock_3.jpg", "mimeType": "image/jpeg"}
+{"content": "gs://mikes-ml-demo-bucket/batch_predict/images/rock_on_grass.jpeg", "mimeType": "image/jpeg"}

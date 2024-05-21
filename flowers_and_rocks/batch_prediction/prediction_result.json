@@ -1,0 +1,31 @@
+//{"instance":{"content":"gs://mikes-ml-demo-bucket/batch_predict/images/rock_3.jpg","mimeType":"image/jpeg"},"prediction":{"ids":["795308921085493248","3064841658303512576","6934841113098321920","1478448689562255360","6727675530239279104"],"displayNames":["grass","rock","Marguerite","sign","dandelion"],"confidences":[0.47040102,0.37673226,0.11084163,0.026243135,0.015781946]}}
+//{"instance":{"content":"gs://mikes-ml-demo-bucket/batch_predict/images/dandelion_2.jpeg","mimeType":"image/jpeg"},"prediction":{"ids":["6727675530239279104","795308921085493248","3064841658303512576","6934841113098321920","1478448689562255360"],"displayNames":["dandelion","grass","rock","Marguerite","sign"],"confidences":[0.83382154,0.08870959,0.030954113,0.027575145,0.018939648]}}
+{
+  "instance": {
+    "content": "gs://mikes-ml-demo-bucket/batch_predict/images/rock_2.jpg",
+    "mimeType": "image/jpeg"
+  },
+  "prediction": {
+    "ids": [
+      "3064841658303512576",
+      "795308921085493248",
+      "6934841113098321920",
+      "1478448689562255360",
+      "6727675530239279104"
+    ],
+    "displayNames": [
+      "rock",
+      "grass",
+      "Marguerite",
+      "sign",
+      "dandelion"
+    ],
+    "confidences": [
+      0.9282232,
+      0.036622565,
+      0.022873497,
+      0.009371297,
+      0.0029095325
+    ]
+  }
+}

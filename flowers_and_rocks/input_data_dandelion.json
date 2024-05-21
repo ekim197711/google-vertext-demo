@@ -5,7 +5,7 @@
     }
   ],
   "parameters": {
-    "confidenceThreshold": 0.01,
+    "confidenceThreshold": 0.5,
     "maxPredictions": 5
   }
 }
